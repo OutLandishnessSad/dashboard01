@@ -1,0 +1,2 @@
+Plně funkční grafy ze stranky 
+https://www.laravelcode.com/post/create-a-chart-using-chartjs-in-vuejs
